@@ -12,3 +12,15 @@ Este Exercício escreve a frase "Hello World!"
 
 ### Cálculo Área (Exercicio03)
 Após o usuário informar o raio é calculado a área de um círculo
+
+### Valor Produto(Exercício04)
+Mostra o resultado da quantidade e o preço do produto
+
+### Média 1 (Exercício05)
+Após inserido duas médias com pesos diferentes, é realizado o cálculo da média geral
+
+### Média 2 (Exercício06)
+Após inserido três médias com pesos diferentes, é realizado o cálculo da média geral
+
+### Diferença Preço (Exercício07)
+Este exercício traz duas quantidades e dois preço e o programa retorna qual é a diferença entre eles
