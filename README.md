@@ -24,3 +24,6 @@ Após inserido três médias com pesos diferentes, é realizado o cálculo da m�
 
 ### Diferença Preço (Exercício07)
 Este exercício traz duas quantidades e dois preço e o programa retorna qual é a diferença entre eles
+
+### Salário (Exercício08)
+Ao ser informado pelo usuário a quantidade de horas trabalhadas e o valor da hora, o programa calcula o salário do funcionário
