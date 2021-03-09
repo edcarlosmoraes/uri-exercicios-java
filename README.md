@@ -33,3 +33,6 @@ Esse exercício mostra o cálculo do salário considerando uma comissão sobre a
 
 ### Soma Produtos (Exercício10)
 É realizado a compra de dois produtos com quantidades e valores diferentes e o programa calcula o valor total a pagar
+
+### Volume Esfera (Exercício11)
+Após o usuário informar o raio o programa calcula o volume da esfera
