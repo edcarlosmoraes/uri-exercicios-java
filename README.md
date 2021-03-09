@@ -30,3 +30,6 @@ Ao ser informado pelo usuário a quantidade de horas trabalhadas e o valor da ho
 
 ### Salário com Bônus (Exercício09)
 Esse exercício mostra o cálculo do salário considerando uma comissão sobre as vendas, informado pelo usuário
+
+### Soma Produtos (Exercício10)
+É realizado a compra de dois produtos com quantidades e valores diferentes e o programa calcula o valor total a pagar
