@@ -27,3 +27,6 @@ Este exercício traz duas quantidades e dois preço e o programa retorna qual é
 
 ### Salário (Exercício08)
 Ao ser informado pelo usuário a quantidade de horas trabalhadas e o valor da hora, o programa calcula o salário do funcionário
+
+### Salário com Bônus (Exercício09)
+Esse exercício mostra o cálculo do salário considerando uma comissão sobre as vendas, informado pelo usuário
