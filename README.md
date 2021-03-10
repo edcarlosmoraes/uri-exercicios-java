@@ -39,3 +39,6 @@ Após o usuário informar o raio o programa calcula o volume da esfera
 
 ### Cálculo Área (Exercício12)
 O usuário informa três números e programa retorna com a área do triângulo, circulo, trapézio, quadrado e retângulo
+
+### Maior Número (Exercício13)
+Este exercício mostra o maior número entre três números digitados pelo usuário
