@@ -36,3 +36,6 @@ Esse exercício mostra o cálculo do salário considerando uma comissão sobre a
 
 ### Volume Esfera (Exercício11)
 Após o usuário informar o raio o programa calcula o volume da esfera
+
+### Cálculo Área (Exercício12)
+O usuário informa três números e programa retorna com a área do triângulo, circulo, trapézio, quadrado e retângulo
