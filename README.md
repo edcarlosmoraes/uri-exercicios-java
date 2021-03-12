@@ -51,3 +51,6 @@ Depois de inserido dois pontos, é calculado a distância entre eles
 
 ### Distância Dois Carros (Exercício16)
 Através de uma distância inserida, o programa calcula quanto tempo demoraria para um carro se distânciar essa quantidade do outro com velocidades diferentes
+
+### Consumo Carro (Exercício17)
+Esse exercício mostra a quantidade de litro consumido em uma viagem após ser informado a quantidade de hora e o consumo médio pelo usuário
