@@ -48,3 +48,6 @@ Ao ser informado a quilometragem e a quantidade de combustível utilizado, o pro
 
 ### Distância Dois Pontos(Exercício15)
 Depois de inserido dois pontos, é calculado a distância entre eles
+
+### Distância Dois Carros (Exercício16)
+Através de uma distância inserida, o programa calcula quanto tempo demoraria para um carro se distânciar essa quantidade do outro com velocidades diferentes
