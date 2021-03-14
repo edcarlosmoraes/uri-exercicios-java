@@ -54,3 +54,6 @@ Através de uma distância inserida, o programa calcula quanto tempo demoraria p
 
 ### Consumo Carro (Exercício17)
 Esse exercício mostra a quantidade de litro consumido em uma viagem após ser informado a quantidade de hora e o consumo médio pelo usuário
+
+### Separando Notas (Exercício18)
+O usuário informa uma quantia e o programa separa as notas de 100, 50...
