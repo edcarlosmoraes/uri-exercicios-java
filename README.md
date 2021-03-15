@@ -58,5 +58,8 @@ Esse exercício mostra a quantidade de litro consumido em uma viagem após ser i
 ### Separando Notas (Exercício18)
 O usuário informa uma quantia e o programa separa as notas de 100, 50...
 
-### Conversor Horas (Exercicio19)
+### Conversor Horas (Exercício19)
 Após informado uma quantidade de segundos, o programa faz o correspondente em horas e minutos 
+
+### Conversor Idade (Exercício20)
+Ao ser inserido uma quantidade de dias, é calculado o equivalente a ano e mês
