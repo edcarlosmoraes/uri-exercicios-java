@@ -63,3 +63,6 @@ Após informado uma quantidade de segundos, o programa faz o correspondente em h
 
 ### Conversor Idade (Exercício20)
 Ao ser inserido uma quantidade de dias, é calculado o equivalente a ano e mês
+
+### Separador Notas e Moedas (Exercicio21)
+Ao ser colocado uma quantia o programa separa por notas e moedas
