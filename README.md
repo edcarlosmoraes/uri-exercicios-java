@@ -66,3 +66,6 @@ Ao ser inserido uma quantidade de dias, é calculado o equivalente a ano e mês
 
 ### Separador Notas e Moedas (Exercicio21)
 Ao ser colocado uma quantia o programa separa por notas e moedas
+
+### Verificar números (Exercício22)
+Este exercício traz algumas condições que após inserido quatro números ele informa se os valores são aceitos ou não
