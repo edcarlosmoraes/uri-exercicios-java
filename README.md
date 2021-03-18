@@ -72,3 +72,6 @@ Este exercício traz algumas condições que após inserido quatro números ele 
 
 ### Fórmula de Bhaskara (Exercício23)
 É realizado o cálculo da fórmula de bhaskara após ser inserido três números
+
+### Intervalo (Exercício24)
+Mostra o número digitado em qual faixa de intervalo está
