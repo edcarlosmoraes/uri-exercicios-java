@@ -75,3 +75,6 @@ Este exercício traz algumas condições que após inserido quatro números ele 
 
 ### Intervalo (Exercício24)
 Mostra o número digitado em qual faixa de intervalo está
+
+### Selecionando Menu (Exercício25)
+Apresentando algumas opções o usuário selciona o tipo e a quantidade e o programa calcula o valor total
