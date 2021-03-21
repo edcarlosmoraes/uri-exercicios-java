@@ -78,3 +78,6 @@ Mostra o número digitado em qual faixa de intervalo está
 
 ### Selecionando Menu (Exercício25)
 Apresentando algumas opções o usuário selciona o tipo e a quantidade e o programa calcula o valor total
+
+### Media Alunos (Exercício26)
+Com a inclusão de quatro notas com pesos diferentes, o programa informa se foi aprovado, reprovado ou se está em exame inserindo uma nova nota para saber o resultado final
