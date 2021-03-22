@@ -81,3 +81,6 @@ Apresentando algumas opções o usuário selciona o tipo e a quantidade e o prog
 
 ### Media Alunos (Exercício26)
 Com a inclusão de quatro notas com pesos diferentes, o programa informa se foi aprovado, reprovado ou se está em exame inserindo uma nova nota para saber o resultado final
+
+### Coordenadas de um Ponto (Exercício27)
+São digitados dois números e o programa mostra em qual quadrante está, na origem ou em um dos eixos
