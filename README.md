@@ -84,3 +84,6 @@ Com a inclusão de quatro notas com pesos diferentes, o programa informa se foi 
 
 ### Coordenadas de um Ponto (Exercício27)
 São digitados dois números e o programa mostra em qual quadrante está, na origem ou em um dos eixos
+
+### Ordenando Números (Exercício28)
+Foram digitados três números aleatóriamente e o programa ordena, exibe primeiro ordenado e depois como foi inserido
