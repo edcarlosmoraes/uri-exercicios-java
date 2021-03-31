@@ -87,3 +87,6 @@ São digitados dois números e o programa mostra em qual quadrante está, na ori
 
 ### Ordenando Números (Exercício28)
 Foram digitados três números aleatóriamente e o programa ordena, exibe primeiro ordenado e depois como foi inserido
+
+### Triângulo (Exercício29)
+Verifica se os números inseridos formam um triângulo ou não e posteriormente informa o perímetro ou a área
