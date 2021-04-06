@@ -90,3 +90,6 @@ Foram digitados três números aleatóriamente e o programa ordena, exibe primei
 
 ### Triângulo (Exercício29)
 Verifica se os números inseridos formam um triângulo ou não e posteriormente informa o perímetro ou a área
+
+### Múltiplos (Exercício30)
+São informados dois números e o programa verifica se eles são múltiplos entre eles
