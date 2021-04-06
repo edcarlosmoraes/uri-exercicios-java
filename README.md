@@ -93,3 +93,6 @@ Verifica se os números inseridos formam um triângulo ou não e posteriormente 
 
 ### Múltiplos (Exercício30)
 São informados dois números e o programa verifica se eles são múltiplos entre eles
+
+### Tipos de Triângulos (Exercício31)
+Com três números disponibilizados o programa ordena e mostra os tipos de triângulos possíveis com aqueles valores
