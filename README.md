@@ -96,3 +96,6 @@ São informados dois números e o programa verifica se eles são múltiplos entr
 
 ### Tipos de Triângulos (Exercício31)
 Com três números disponibilizados o programa ordena e mostra os tipos de triângulos possíveis com aqueles valores
+
+### Tempo de Jogo (Exercício32)
+É informado a hora inicial e a final de uma partida e é mostrado a duração do jogo
