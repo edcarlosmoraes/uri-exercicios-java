@@ -99,3 +99,6 @@ Com três números disponibilizados o programa ordena e mostra os tipos de triâ
 
 ### Tempo de Jogo (Exercício32)
 É informado a hora inicial e a final de uma partida e é mostrado a duração do jogo
+
+### Tempo de Jogo com Minutos (Exercício33)
+Semelhante ao exercício anterior mas com o adicional dos minutos o programa calula a duração do jogo
