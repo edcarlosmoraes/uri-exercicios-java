@@ -102,3 +102,6 @@ Com três números disponibilizados o programa ordena e mostra os tipos de triâ
 
 ### Tempo de Jogo com Minutos (Exercício33)
 Semelhante ao exercício anterior mas com o adicional dos minutos o programa calula a duração do jogo
+
+### Aumento de Salário (Exercício34)
+Ao ser informado do salário atual do funcionário, o programa segue uma tabela com faixa de salários e calula o novo salário proporcionalmente
