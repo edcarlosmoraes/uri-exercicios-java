@@ -105,3 +105,6 @@ Semelhante ao exercício anterior mas com o adicional dos minutos o programa cal
 
 ### Aumento de Salário (Exercício34)
 Ao ser informado do salário atual do funcionário, o programa segue uma tabela com faixa de salários e calula o novo salário proporcionalmente
+
+### Animais (Exercício35)
+Quando apresentado pelo usuário três características, é retornado um tipo de animal com as mesmas
