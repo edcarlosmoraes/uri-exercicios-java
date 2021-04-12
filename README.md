@@ -108,3 +108,6 @@ Ao ser informado do salário atual do funcionário, o programa segue uma tabela 
 
 ### Animais (Exercício35)
 Quando apresentado pelo usuário três características, é retornado um tipo de animal com as mesmas
+
+### Código DDD (Exercício36)
+Com base em alguns códigos cadastrados o usuário informa o número e retorna referente a qual cidade o DDD é respectivo
