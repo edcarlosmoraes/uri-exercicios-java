@@ -111,3 +111,6 @@ Quando apresentado pelo usuário três características, é retornado um tipo de
 
 ### Código DDD (Exercício36)
 Com base em alguns códigos cadastrados o usuário informa o número e retorna referente a qual cidade o DDD é respectivo
+
+### Imposto de Renda (Exercício37)
+O usuário informa o salário e o programa calcula o imposto através da alíquota correspondente
