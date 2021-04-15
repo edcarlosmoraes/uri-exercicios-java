@@ -114,3 +114,6 @@ Com base em alguns códigos cadastrados o usuário informa o número e retorna r
 
 ### Imposto de Renda (Exercício37)
 O usuário informa o salário e o programa calcula o imposto através da alíquota correspondente
+
+### Mês do Ano (Exercício38)
+Quando informado o número do mês o programa retorna com a descrição do mesmo
