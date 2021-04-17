@@ -117,3 +117,6 @@ O usuário informa o salário e o programa calcula o imposto através da alíquo
 
 ### Mês do Ano (Exercício38)
 Quando informado o número do mês o programa retorna com a descrição do mesmo
+
+### Números Pares (Exercício39)
+O programa mostra os números pares de 1 à 100
