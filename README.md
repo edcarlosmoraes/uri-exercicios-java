@@ -120,3 +120,6 @@ Quando informado o número do mês o programa retorna com a descrição do mesmo
 
 ### Números Pares (Exercício39)
 O programa mostra os números pares de 1 à 100
+
+### Números Positivos (Exercício40)
+São informados seis números aleatórios e o programa retorna quantos são positivos
