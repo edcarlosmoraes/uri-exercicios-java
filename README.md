@@ -123,3 +123,6 @@ O programa mostra os números pares de 1 à 100
 
 ### Números Positivos (Exercício40)
 São informados seis números aleatórios e o programa retorna quantos são positivos
+
+### Tempo de um Evento (Exercício41)
+O usuário informa o dia, hora, minuto e segundo que começa e termina um evento e o programa faz o cálculo da duração
